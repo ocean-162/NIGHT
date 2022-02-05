@@ -28,6 +28,32 @@ form{
 	font-size: 10px;
 }
 
+#bme{
+	border: none;
+	outline: none;
+	border-radius: 20px;
+	background-color: #10294C;
+	color: white;
+	transition: background-color 1s , box-shadow 1s;
+	height: 50px;
+	width: 75px;
+	margin: 0;
+    font-family: 千图纤墨体;
+}
+
+#bme:hover{
+	border: none;
+	outline: none;
+	border-radius: 20px;
+	background-color: black;
+	color: white;
+	height: 50px;
+	width: 75px;
+	margin: 0;
+    font-family: 千图纤墨体;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.45), 0 6px 20px 0 rgba(0,0,0,0.19);  /*阴影*/
+}
+
 input[type=text]{
 	background-color: #10294C;
 	color: white;
