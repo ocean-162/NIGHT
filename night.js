@@ -1,8 +1,8 @@
 var a = new Date();
 var h = a.getHours();
 var y = a.getFullYear();
-var m = a.getMonth();
-var d = a.getDay();
+var m = a.getMonth() + 1;
+var d = a.getDay() - 1;
 var se;  //创建变量，下面用switch来赋值，再输出
 
 switch(h){
