@@ -1,10 +1,8 @@
 var a = new Date();
 var h = a.getHours();
 var y = a.getFullYear();
-var b = a.getMonth();
-var c = a.getDay();
-var m = b + 1;
-var d = c - 1;
+var m = a.getMonth() + 1;
+var d = a.getDate();  //Date才是输出日期，Day输出的是星期！！！
 var se;  //创建变量，下面用switch来赋值，再输出
 
 switch(h){
