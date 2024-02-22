@@ -1,5 +1,5 @@
 html{
-	background-image: url("A-SOUL2.png");
+	background-image: url("A-SOUL3.png");
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
@@ -14,19 +14,19 @@ form{
 
 #tip{
 	color: white;
-	font-family: 千图纤墨体;
+	font-family: 华文中宋;
 	font-size: 15px;
 }
 
 #timegreeting{
 	color: white;
-	font-family: 千图纤墨体;
+	font-family: 华文中宋;
 	font-size: 25px;
 }
 
 #cim{
 	color: white;
-	font-family: 千图纤墨体;
+	font-family: 华文中宋;
 	font-size: 10px;
 }
 
@@ -40,7 +40,7 @@ form{
 	height: 50px;
 	width: 75px;
 	margin: 0;
-    font-family: 千图纤墨体;
+    font-family: 华文中宋;
 }
 
 #bme:hover{
@@ -52,7 +52,7 @@ form{
 	height: 50px;
 	width: 75px;
 	margin: 0;
-    font-family: 千图纤墨体;
+    font-family: 华文中宋;
 	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.45), 0 6px 20px 0 rgba(0,0,0,0.19);  /*阴影*/
 }
 
